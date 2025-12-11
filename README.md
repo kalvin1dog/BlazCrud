@@ -8,7 +8,7 @@ Simple, Fast, and Open Source Blazor Components from your existing SQLite Schema
 •	<strong>Schema Analysis:</strong> Intelligently reads table structures, column types, and primary keys from any SQLite file.<br>
 •	<strong>Clean Code Output:</strong> Generates modern Blazor components, C# models, and a data service layer ready for immediate use.<br>
 •	<strong>100% Blazor Native:</strong> The generated code uses standard Blazor components and is easy to modify and extend.<br>
-&nbsp;&nbsp;•	<strong>Open Source:</strong> Free to use, modify, and contribute to under the [MIT License].<br>
+&nbsp;•	<strong>Open Source:</strong> Free to use, modify, and contribute to under the [MIT License].<br><br>
 🎬 <strong>See it in Action</strong> (3-Minute Demo)<br>
-https://youtu.be/TjjoKxeb7qQ
+&nbsp;&nbsp;https://youtu.be/TjjoKxeb7qQ
 
