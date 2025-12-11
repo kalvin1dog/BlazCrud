@@ -1,7 +1,7 @@
 # BlazCrud
-Blazor CRUD Generator for SQLite (VS 2026)
-Simple, Fast, and Open Source Blazor Components from your existing SQLite Schema.
-Description (The main section of the README)
+Blazor CRUD Generator for SQLite (VS 2026) <br>
+Simple, Fast, and Open Source Blazor Components from your existing SQLite Schema.<br><br>
+Description (The main section of the README) <br>
 🎯 The Problem: Writing repetitive Create, Read, Update, Delete (CRUD) boilerplate for every table is tedious and time-consuming.
 💡 The Solution: This Blazor tool analyzes your local SQLite database file and automatically generates fully functional, data-bound Blazor components (e.g., razor pages and C# service logic) customized for your schema. Get your data interface running in seconds, not hours.
 ✨ Key Features
