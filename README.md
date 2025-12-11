@@ -10,5 +10,5 @@ Simple, Fast, and Open Source Blazor Components from your existing SQLite Schema
 •	<strong>100% Blazor Native:</strong> The generated code uses standard Blazor components and is easy to modify and extend.<br>
 &nbsp;•	<strong>Open Source:</strong> Free to use, modify, and contribute to under the [MIT License].<br><br>
 🎬 <strong>See it in Action</strong> (3-Minute Demo)<br>
-&nbsp;&nbsp;https://youtu.be/TjjoKxeb7qQ
+&nbsp;&nbsp;&nbsp;&nbsp;https://youtu.be/TjjoKxeb7qQ
 
